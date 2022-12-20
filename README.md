@@ -21,8 +21,7 @@
    <img src="https://komarev.com/ghpvc/?username=adaldin&style=flat-square&color=blue" alt=""/>
   </div>
 
-My current collaboration with [IT ACADEMY](https://dev.itadirectory.eurecatacademy.org)
-[IT ACADEMY](https://dev.itadirectory.eurecatacademy.org)![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/18453013/208677627-33a37f96-02d5-46e2-a9a7-d57b570229cb.gif)
+My current collaboration with [IT ACADEMY](https://dev.itadirectory.eurecatacademy.org)![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/18453013/208677627-33a37f96-02d5-46e2-a9a7-d57b570229cb.gif)
 
 👨‍💻 See my last projects [Here](https://github.com/adaldin?tab=repositories)
 

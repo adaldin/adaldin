@@ -24,6 +24,7 @@
 
 👨‍💻 See my latest projects [Here](https://github.com/adaldin?tab=repositories)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stack & Tools ⚙️
 <div>

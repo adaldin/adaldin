@@ -25,7 +25,7 @@
 👨‍💻 See my latest projects [Here](https://github.com/adaldin?tab=repositories)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
 
 
 ## Stack & Tools ⚙️

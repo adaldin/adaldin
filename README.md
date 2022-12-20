@@ -5,7 +5,7 @@
 
 ------------------------------------------------
 
-## I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
+#### I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
 
  
  

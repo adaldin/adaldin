@@ -10,7 +10,7 @@ I'm Alejandra, a Front-End Developer and graphic designer currently collaboratin
   <a href="https://www.linkedin.com/in/adaldin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="mailto:aledaldin@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="your-twitter-URL">

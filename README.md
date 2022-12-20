@@ -5,7 +5,7 @@
 
 ------------------------------------------------
 
-#### I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) and developing SUP PEOPLE App
+#### I'm Alejandra, a Front-End Developer and graphic designer
 
  
  
@@ -18,17 +18,17 @@
   </a>
 </div>
 
-
-## Get your Just Kiddin' jokes of the day 😂
-1. Take a look of the website clicking [here](https://justkiddin.netlify.app/#).
-2. Make sure that your have your browser geolocation activated to get the current weather at your place.
-3. Have fun!
+<img src="https://komarev.com/ghpvc/?username=adaldin&style=flat-square&color=blue" alt=""/>
 
 
-<div align="center">
-  <a href="https://justkiddin.netlify.app/" target="blank">
-   <img src="https://user-images.githubusercontent.com/18453013/191450002-af9dd6a3-2f1e-420f-a3f2-31bd37a8b4e0.gif" /></a>
-</div>
+- 🔭 I’m currently working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory)
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ## Builded with ⚙️
 <div>

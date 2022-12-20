@@ -37,7 +37,7 @@ Front-End <br>
   
   Testing <br>
   <img src="https://user-images.githubusercontent.com/18453013/208672151-0cedb5a7-ded2-4753-aeee-4c395c895eb7.png" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="40px"/>
 
   Software <br>
   <img src="https://img.icons8.com/color/48/null/git.png"/>

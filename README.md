@@ -41,11 +41,9 @@ Front-End <br>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="40px"/>
   <img src="https://vitest.dev/logo-shadow.svg" width="40px"/>
 
-   
   Backend <br>
   <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width="40px"/>
 <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
-  
   
   Software <br>
   <img src="https://img.icons8.com/color/48/null/git.png"/>
@@ -55,9 +53,7 @@ Front-End <br>
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
-
-  
-    </div>  
+</div>  
     
  
 

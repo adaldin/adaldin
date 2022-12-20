@@ -29,7 +29,7 @@
 <div>
   <h5>Languages: </h5>
     <img src="https://icons8.com/icon/108784/javascript" alt="js logo"/>
-  <img src="https://icons8.com/icon/nCj4PvnCO0tZ/typescript](https://icons8.com/icon/nCj4PvnCO0tZ/typescript" alt="tp logo"/>
+    <img src="https://icons8.com/icon/nCj4PvnCO0tZ/typescript" alt="tp logo"/>
   
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>

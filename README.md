@@ -8,9 +8,6 @@
   <h4>I'm Alejandra, a Front-End Developer and graphic designer</h4>
   <p>I’m currently working on <a href="https://github.com/IT-Academy-BCN/ita-directory">IT Academy Directory</a><p>
   </div>
-
-
- 
  
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/adaldin/">
@@ -27,15 +24,15 @@
 
 ## Stack ⚙️
 <div align="center">
+  Languages
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
    <img src="https://img.icons8.com/color/48/null/typescript.png"/>
 
-  <h5>Front-End:
+Front-End
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
-
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
   <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
     </div>  
     

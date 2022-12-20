@@ -27,6 +27,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
 
+<div style="text-align: center;">
+
+![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
+
+</div>
+
 
 ## Stack & Tools ⚙️
 <div>

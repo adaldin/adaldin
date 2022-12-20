@@ -6,7 +6,7 @@
 ------------------------------------------------
 <div align="center">
   <h4>I'm Alejandra, a Front-End Developer and graphic designer</h4>
-  <p>I’m currently working on <a href"https://github.com/IT-Academy-BCN/ita-directory">IT Academy Directory</a><p>
+  <p>I’m currently working on <a href="https://github.com/IT-Academy-BCN/ita-directory">IT Academy Directory</a><p>
   </div>
 
 

@@ -23,7 +23,7 @@
 
 
 ## Stack ⚙️
-<div >
+<div>
   Languages <br>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
    <img src="https://img.icons8.com/color/48/null/typescript.png"/>

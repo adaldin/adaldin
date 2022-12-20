@@ -4,9 +4,9 @@
 </div>
 
 ------------------------------------------------
-<div  align="center"> 
-## I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
- </div>
+
+I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
+
  
  
 <div id="badges"  align="center">

@@ -29,7 +29,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaldin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaldun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

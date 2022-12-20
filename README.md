@@ -27,7 +27,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
 
-<div style="text-align: center;">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaldin&show_icons=true&theme=cobalt2)
 

@@ -25,12 +25,7 @@
   </div>
 
 
-
-
->> 🔭 
-
-
-## Builded with ⚙️
+## Stack ⚙️
 <div>
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
@@ -40,37 +35,5 @@
   <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
     </div>  
     
- ## Roadmap 🗺️
-Upcoming features on this project:
-* Fix display position of main container.
-* Fix notification when browser geolocation is not available.
-* Add user login & register to save jokes
-
-## Contributing 🤝
- Any suggestion is more than welcome & greatly appreciated! ❤️
- Feel free to follow next steps in order to contribute to this project
  
-1. Fork the Project 
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature) 
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
 
-## Authors ✍️
-[@adaldin](https://github.com/adaldin)
-
-
-### Hi there 👋
-din** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

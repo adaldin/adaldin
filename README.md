@@ -27,9 +27,13 @@
 
 ## Stack ⚙️
 <div>
+  <h5>Languages: </h5>
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"alt="js logo"/>
+  <img src="https://user-images.githubusercontent.com/18453013/208667103-aaed03c4-260a-4e7d-b8cd-65d05b16065a.png" alt="tp logo"/>
+  
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
-  <img src="https://img.icons8.com/fluency/48/000000/javascript.png"alt="js logo"/>
+
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>

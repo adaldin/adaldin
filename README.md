@@ -33,7 +33,7 @@ Front-End <br>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px"/>
   <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
   
   Testing <br>

@@ -49,7 +49,6 @@
   <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
 </div>  
     
  

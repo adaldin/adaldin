@@ -24,16 +24,31 @@
 
 ## Stack ⚙️
 <div align="center">
-  Languages
+  Languages <br>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
    <img src="https://img.icons8.com/color/48/null/typescript.png"/>
 
-Front-End
+Front-End <br>
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
   <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
+  
+  Testing <br>
+  <img src="https://user-images.githubusercontent.com/18453013/208672151-0cedb5a7-ded2-4753-aeee-4c395c895eb7.png" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"/>
+
+  Software <br>
+  <img src="https://img.icons8.com/color/48/null/git.png"/>
+  <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/adobe-premiere-pro--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+
+  
     </div>  
     
  

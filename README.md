@@ -26,11 +26,10 @@
 
 
 ## Stack ⚙️
-<div>
-  <div>Languages:
+<div align="center">
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
    <img src="https://img.icons8.com/color/48/null/typescript.png"/>
-     </div>
+
   <h5>Front-End:
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>

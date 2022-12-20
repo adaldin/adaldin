@@ -4,8 +4,11 @@
 </div>
 
 ------------------------------------------------
-I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
-
+<div  align="center"> 
+## I'm Alejandra, a Front-End Developer and graphic designer currently collaborating with [@IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) 
+ </div>
+ 
+ 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/adaldin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
